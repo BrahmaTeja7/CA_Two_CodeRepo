@@ -1,5 +1,5 @@
 <?php
-    
+//idea taken from https://www.geeksforgeeks.org/signup-form-using-php-and-mysql-database/   
 $showAlert = false; 
 $showError = false; 
 $exists= false;
